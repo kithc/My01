@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\9f3668059ee1289582fdbb74a12cf15b0306fbf0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f822f1d48826191021c8a5e2fb787cea55d4e03f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\e3769e245bc98de60368fb8f76879cf847f92930\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c1c8e658b29d0608d32c10519f98e68306e8b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\9100e208000e90afc7dfbe74e67585cef67cb1cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba98dd64a83fd304e26ff92678186be8cefb5c7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\7db0eb13acdfd9e418e55fb85606555f28e2a90c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f01acacfeab4f5f218e1e22fc72627161be73ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Hc\My01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f26df256b844f70c8d775d5a823c8444749a07b">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e843950efa2a50f17a6388b73dd20b334a1b0a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\8db425ba7226672ff900a6c6b7fa51a417a601db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9133316f3693eb07a1718e92de6d938e26a2ddc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\bcc7bc3dc5c05bfb930cfce4fe92763fe0444689\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d0f68d913fdf3e8367e877103aa2752fa483680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\e6509d553827d29b815a5972b6c080c0c18dbde9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a46d39bdb58e9dd4f51ce7c75f96b6fc81bbeaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\06f0ce781ad66d191ea4bc6eae779b578dde2ea7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e93955f295f405fbede7f730e112dee94a06fe84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\5af16b7522c0ab34063633bff99d32c780996af7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fa8410e71d9a266db235efbbdd76d6506da8f9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\foko\.android\build-cache\34d2808d10a8b0df05edcb83c415cf6b75bf865b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8ca3e54b07e6cd3ad8e81a00326d6b25db957b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Hc\My01\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Hc\My01\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Hc\My01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9bb8bab8606300f6abc66d713eb6e63871beabfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Hc\My01\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa\classes.dex" />
+    </item>
+
+</items>

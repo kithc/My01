@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My01</string>
+    <string name="tv_about_msg">本软件由：\n\n张三\n李四\n你的内容：<font color="red">要设置的内容</font></string>
+    <string name="determine">确定</string>
+</resources>
